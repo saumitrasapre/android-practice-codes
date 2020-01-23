@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="meme1_btn_txt"><![CDATA[Next >]]></string>
+    <string name="meme1_desc_txt">meme_part_1</string>
+    <string name="meme2_btn_txt"><![CDATA[< Prev]]></string>
+    <string name="meme2_desc_txt">meme_part_2</string>
+    <string name="txtview_text">Nice Bro,You\'re Right!</string>
+    <string name="editText_txt">Your Text Here</string>
+    <string name="input_text">Ni</string>
+</resources>

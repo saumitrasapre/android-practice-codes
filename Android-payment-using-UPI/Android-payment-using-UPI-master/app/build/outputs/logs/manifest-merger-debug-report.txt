@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\b320a443effd06c78f4f9e5ddfe89b1a\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\845e091032ca2061619bb35b5c2614bb\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f7239896cd8e1e382a3fd71565b8b288\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\ef79124f0bd9c34f8348139d6c78a5b7\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f94f911c48b784483863caa0d1b69c79\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\43aa7bdd8895886c797a042cb22a6544\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\c6caa57dfc132cbd041e0dae542be0a2\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\dd5573a89bd75c3ee1c53810410ef2ba\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\aba2432f202774b83983d220847ad226\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\16c10e4d08e36217eb0763f1e03f94a9\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\b6019c7a0b9ddcb41301864a6ddfb18f\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\624064a09b6288a5178059d2123a43cf\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\8524300dfafb44db53d40d03fc218ceb\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\8f12292d72be7916a05aca35e236c5a7\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\990158c927c012d1677031ad14165542\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\fe6283a58839026a8ad542672ca589c6\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\1697d9bc7a544183551856c5571ddc50\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\484db9973b2cf3f7eff1e10b8ff90ddc\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\d43503f79af7698b41c1fdadbf3cc0ed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\83a6efe989782ba0ff7ff34408c7f22f\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\987e9b10c40dacf71c326fb133cfcf12\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\bcc6fd35cc65f90790bfddae72ea5b9b\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\1754c37170a596c2565dcdf21351b275\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\0e337cc19638747a72f0dd7361d3b1f9\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.chirag.upi_payments.MainActivity
+ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\b320a443effd06c78f4f9e5ddfe89b1a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\b320a443effd06c78f4f9e5ddfe89b1a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\845e091032ca2061619bb35b5c2614bb\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\845e091032ca2061619bb35b5c2614bb\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f7239896cd8e1e382a3fd71565b8b288\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f7239896cd8e1e382a3fd71565b8b288\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\ef79124f0bd9c34f8348139d6c78a5b7\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\ef79124f0bd9c34f8348139d6c78a5b7\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f94f911c48b784483863caa0d1b69c79\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\f94f911c48b784483863caa0d1b69c79\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\43aa7bdd8895886c797a042cb22a6544\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\43aa7bdd8895886c797a042cb22a6544\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\c6caa57dfc132cbd041e0dae542be0a2\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\c6caa57dfc132cbd041e0dae542be0a2\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\dd5573a89bd75c3ee1c53810410ef2ba\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\dd5573a89bd75c3ee1c53810410ef2ba\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\aba2432f202774b83983d220847ad226\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\aba2432f202774b83983d220847ad226\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\16c10e4d08e36217eb0763f1e03f94a9\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\16c10e4d08e36217eb0763f1e03f94a9\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\b6019c7a0b9ddcb41301864a6ddfb18f\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\b6019c7a0b9ddcb41301864a6ddfb18f\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\624064a09b6288a5178059d2123a43cf\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\624064a09b6288a5178059d2123a43cf\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\8524300dfafb44db53d40d03fc218ceb\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\8524300dfafb44db53d40d03fc218ceb\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\8f12292d72be7916a05aca35e236c5a7\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\8f12292d72be7916a05aca35e236c5a7\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\990158c927c012d1677031ad14165542\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\990158c927c012d1677031ad14165542\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\fe6283a58839026a8ad542672ca589c6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\fe6283a58839026a8ad542672ca589c6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\1697d9bc7a544183551856c5571ddc50\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\1697d9bc7a544183551856c5571ddc50\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\484db9973b2cf3f7eff1e10b8ff90ddc\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\484db9973b2cf3f7eff1e10b8ff90ddc\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\d43503f79af7698b41c1fdadbf3cc0ed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\d43503f79af7698b41c1fdadbf3cc0ed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\83a6efe989782ba0ff7ff34408c7f22f\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\83a6efe989782ba0ff7ff34408c7f22f\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\987e9b10c40dacf71c326fb133cfcf12\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\987e9b10c40dacf71c326fb133cfcf12\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\bcc6fd35cc65f90790bfddae72ea5b9b\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\bcc6fd35cc65f90790bfddae72ea5b9b\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\1754c37170a596c2565dcdf21351b275\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\1754c37170a596c2565dcdf21351b275\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\0e337cc19638747a72f0dd7361d3b1f9\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Saumitra\.gradle\caches\transforms-2\files-2.1\0e337cc19638747a72f0dd7361d3b1f9\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Saumitra\AndroidStudioProjects\Android-payment-using-UPI-master\Android-payment-using-UPI-master\app\src\main\AndroidManifest.xml

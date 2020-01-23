@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EssQuLite</string>
+    <string name="inputHeader">To Do List:</string>
+    <string name="deleteButtonText">Delete Item</string>
+    <string name="insertButtonText">Insert Item</string>
+</resources>

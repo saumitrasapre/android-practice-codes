@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Time</string>
+    <string name="button_text">What\'s the time?</string>
+    <string name="time_text">12:00</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/userInputText"
+        android:layout_width="230dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="52dp"
+        android:gravity="left|center_vertical"
+        android:text="@string/inputHeader"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/userInput"
+        android:layout_width="230dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/userInputText"
+        android:layout_centerHorizontal="true"
+        android:inputType="textPersonName" />
+
+
+    <Button
+        android:id="@+id/insertButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="236dp"
+        android:text="@string/insertButtonText" />
+
+
+    <Button
+        android:id="@+id/deleteButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="236dp"
+        android:layout_toRightOf="@id/insertButton"
+        android:text="@string/deleteButtonText" />
+
+    <TextView
+        android:id="@+id/outputText"
+        android:layout_width="280dp"
+        android:layout_height="279dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="13dp"
+        android:gravity="center" />
+
+</android.widget.RelativeLayout>
