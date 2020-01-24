@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216738186602",
+    "firebase_url": "https://faceit-81f8f.firebaseio.com",
+    "project_id": "faceit-81f8f",
+    "storage_bucket": "faceit-81f8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216738186602:android:0e9d90d8fa054361c8d113",
+        "android_client_info": {
+          "package_name": "com.example.faceit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216738186602-j0o9a5adanpvtcm9kolm3fd69ast5947.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faceit",
+            "certificate_hash": "54617fac8daa33eff0793839219926d758127145"
+          }
+        },
+        {
+          "client_id": "216738186602-7tukbrja5h1jhj1390pvcoqb0t6g88kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJSv9S0Ecg5vS0zAPAZy9Gfq5HxaLi9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216738186602-7tukbrja5h1jhj1390pvcoqb0t6g88kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
